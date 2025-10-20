@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17e18253cbae49b1b4bc8b18be9021d0/artifacts
+end_time: 1760944421226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17e18253cbae49b1b4bc8b18be9021d0
+run_name: nosy-cub-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760944382552
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/22379811e7a241baa8d9e808b513be69/artifacts
+end_time: 1760945274169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22379811e7a241baa8d9e808b513be69
+run_name: casual-yak-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760945253642
+status: 3
+tags: []
+user_id: Admin

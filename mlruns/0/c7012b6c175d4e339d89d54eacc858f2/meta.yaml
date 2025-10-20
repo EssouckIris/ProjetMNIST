@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c7012b6c175d4e339d89d54eacc858f2/artifacts
+end_time: 1760942244440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7012b6c175d4e339d89d54eacc858f2
+run_name: painted-shoat-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760942191491
+status: 4
+tags: []
+user_id: Admin

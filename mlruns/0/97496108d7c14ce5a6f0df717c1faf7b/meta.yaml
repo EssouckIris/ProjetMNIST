@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97496108d7c14ce5a6f0df717c1faf7b/artifacts
+end_time: 1760964845512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97496108d7c14ce5a6f0df717c1faf7b
+run_name: bedecked-gnu-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760964816112
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f72fbe313f6a4c35bff2e85edae29102/artifacts
+end_time: 1760943794654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f72fbe313f6a4c35bff2e85edae29102
+run_name: fun-cow-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760943751325
+status: 3
+tags: []
+user_id: Admin

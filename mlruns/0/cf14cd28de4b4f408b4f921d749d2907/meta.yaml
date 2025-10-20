@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf14cd28de4b4f408b4f921d749d2907/artifacts
+end_time: 1760945157458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf14cd28de4b4f408b4f921d749d2907
+run_name: calm-worm-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760945077856
+status: 3
+tags: []
+user_id: Admin

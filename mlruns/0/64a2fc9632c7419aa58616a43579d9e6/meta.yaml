@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64a2fc9632c7419aa58616a43579d9e6/artifacts
+end_time: 1760942432956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64a2fc9632c7419aa58616a43579d9e6
+run_name: unequaled-stork-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760942389249
+status: 3
+tags: []
+user_id: Admin

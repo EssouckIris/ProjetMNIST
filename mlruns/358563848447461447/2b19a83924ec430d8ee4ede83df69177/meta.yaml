@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/ProjetMNIST/mlruns/358563848447461447/2b19a83924ec430d8ee4ede83df69177/artifacts
+end_time: 1760966735195
+entry_point_name: ''
+experiment_id: '358563848447461447'
+lifecycle_stage: active
+run_id: 2b19a83924ec430d8ee4ede83df69177
+run_name: popular-seal-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760966626417
+status: 3
+tags: []
+user_id: Admin

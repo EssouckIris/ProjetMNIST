@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15395044dca7409aabb7e883fcef8e0d/artifacts
+end_time: 1760945456121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15395044dca7409aabb7e883fcef8e0d
+run_name: crawling-trout-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760945377689
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c9ea218a6334437b8d7308447563967a/artifacts
+end_time: 1760964245661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9ea218a6334437b8d7308447563967a
+run_name: respected-crane-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760964160019
+status: 3
+tags: []
+user_id: Admin

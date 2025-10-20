@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2a86e10da5174d1f98732638dc252199/artifacts
+end_time: 1760913513244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a86e10da5174d1f98732638dc252199
+run_name: valuable-robin-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760913513188
+status: 3
+tags: []
+user_id: Admin

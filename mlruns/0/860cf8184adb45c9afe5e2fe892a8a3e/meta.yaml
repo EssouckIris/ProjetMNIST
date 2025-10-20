@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/860cf8184adb45c9afe5e2fe892a8a3e/artifacts
+end_time: 1760944781396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 860cf8184adb45c9afe5e2fe892a8a3e
+run_name: languid-skink-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760944694117
+status: 3
+tags: []
+user_id: Admin

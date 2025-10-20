@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d74486782df0443d8c574007546a34f5/artifacts
+end_time: 1760943478605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d74486782df0443d8c574007546a34f5
+run_name: clumsy-jay-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760943445617
+status: 3
+tags: []
+user_id: Admin
